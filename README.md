@@ -1,2 +1,2 @@
 # FileTree
-A simple non-binary tree algorithm purely written by me.
+A simple non-binary tree algorithm written by me.
